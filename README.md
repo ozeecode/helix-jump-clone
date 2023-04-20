@@ -2,7 +2,7 @@
 
 ### Download
 
-Here is a [link](https://github.com/ozeecode/helix-jump-clone/releases) for the download apk.
+Here is a [link](https://github.com/ozeecode/helix-jump-clone/releases) for downloading the apk.
 
 ### Gameplay Video
 
